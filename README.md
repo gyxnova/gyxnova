@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./lightning.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gyxnova/gyxnova/main/lightning.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
 
 </td>
 </tr>
@@ -41,7 +41,7 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
 </div>
 </div>
 
