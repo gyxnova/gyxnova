@@ -24,20 +24,21 @@
 - 🚀 I like shipping things that *work end-to-end* — not just notebooks that die in a `.ipynb`
 - 🏗️ Currently exploring: generative pipelines, LoRA fine-tuning, and applied AI for education & healthcare
 - 🍫 Fun fact: powered by electricity & chocolate robots
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **gsharma27084@gmail.com**
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
+</div>
 </div>
 
 <br/>
