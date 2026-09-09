@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./lightning.svg" width="100%"/>
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Yo%2C+I'm+Gayatri+%E2%9A%A1;Aspiring+AI%2FML+Engineer;Training+in+Heavens+Arena+%F0%9F%A5%8B;Turning+data+into+Godspeed" alt="Typing SVG" />
 
