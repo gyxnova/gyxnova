@@ -1,0 +1,32 @@
+<!-- EDIT PERCENTAGES: adjust width values to match your real language split -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 195" width="300" height="195">
+  <rect width="300" height="195" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <text x="20" y="35" font-family="Segoe UI, Arial" font-size="16" font-weight="bold" fill="#A78BFA">Most Used Languages</text>
+
+  <!-- Language bars: name, % label, bar background, bar fill (width = %) -->
+  <g font-family="Segoe UI, Arial" font-size="13" fill="#C9D1D9">
+    <!-- Jupyter Notebook -->
+    <text x="20" y="70">📓 Jupyter Notebook</text>
+    <text x="280" y="70" text-anchor="end" font-weight="bold" fill="#A78BFA">72%</text>
+    <rect x="20" y="78" width="260" height="8" rx="4" fill="#21262D"/>
+    <rect x="20" y="78" width="187" height="8" rx="4" fill="#A78BFA"/>
+
+    <!-- Python -->
+    <text x="20" y="112">🐍 Python</text>
+    <text x="280" y="112" text-anchor="end" font-weight="bold" fill="#00D9FF">21%</text>
+    <rect x="20" y="120" width="260" height="8" rx="4" fill="#21262D"/>
+    <rect x="20" y="120" width="55" height="8" rx="4" fill="#00D9FF"/>
+
+    <!-- HTML -->
+    <text x="20" y="154">🌐 HTML</text>
+    <text x="280" y="154" text-anchor="end" font-weight="bold" fill="#7df9ff">4%</text>
+    <rect x="20" y="162" width="260" height="8" rx="4" fill="#21262D"/>
+    <rect x="20" y="162" width="10" height="8" rx="4" fill="#7df9ff"/>
+
+    <!-- CSS -->
+    <text x="20" y="196">🎨 CSS</text>
+    <text x="280" y="196" text-anchor="end" font-weight="bold" fill="#E6EDF3">3%</text>
+    <rect x="20" y="204" width="260" height="8" rx="4" fill="#21262D"/>
+    <rect x="20" y="204" width="8" height="8" rx="4" fill="#E6EDF3"/>
+  </g>
+</svg>

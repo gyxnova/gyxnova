@@ -1,0 +1,34 @@
+<!-- EDIT NUMBERS: change the text values below to your real stats anytime -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195">
+  <defs>
+    <linearGradient id="rankGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <text x="20" y="35" font-family="Segoe UI, Arial" font-size="18" font-weight="bold" fill="#A78BFA">gyxnova's GitHub Stats</text>
+
+  <!-- Stat rows: icon + label + value -->
+  <g font-family="Segoe UI, Arial" font-size="14" fill="#C9D1D9">
+    <text x="20" y="70">⭐ Total Stars Earned:</text>
+    <text x="250" y="70" font-weight="bold" fill="#00D9FF">12</text>
+
+    <text x="20" y="95">🔨 Total Commits:</text>
+    <text x="250" y="95" font-weight="bold" fill="#00D9FF">286</text>
+
+    <text x="20" y="120">🔀 Total PRs:</text>
+    <text x="250" y="120" font-weight="bold" fill="#00D9FF">8</text>
+
+    <text x="20" y="145">❗ Total Issues:</text>
+    <text x="250" y="145" font-weight="bold" fill="#00D9FF">3</text>
+
+    <text x="20" y="170">📦 Contributed to:</text>
+    <text x="250" y="170" font-weight="bold" fill="#00D9FF">14 repos</text>
+  </g>
+
+  <!-- Rank circle -->
+  <circle cx="400" cy="100" r="45" fill="none" stroke="url(#rankGrad)" stroke-width="6"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Segoe UI, Arial" font-size="40" font-weight="bold" fill="url(#rankGrad)">A+</text>
+  <text x="400" y="165" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#8B949E">RANK</text>
+</svg>
