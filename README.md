@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gyxnova/gyxnova/main/lightning.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gyxnova/gyxnova/main/lightning.svg?v=2" width="100%"/>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Yo%2C+I'm+Gayatri+%E2%9A%A1;Aspiring+AI%2FML+Engineer;Training+in+Heavens+Arena+%F0%9F%A5%8B;Turning+data+into+Godspeed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&v=2&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Yo%2C+I'm+Gayatri+%E2%9A%A1;Aspiring+AI%2FML+Engineer;Training+in+Heavens+Arena+%F0%9F%A5%8B;Turning+data+into+Godspeed" alt="Typing SVG" />
 
 <br/>
 
@@ -33,15 +33,15 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA&cache_bust=2" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
+<img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF&cache_bust=2" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&cache_bust=2" width="35%"/>
 </div>
 
 <br/>
@@ -93,7 +93,7 @@ An anime recommender built to know your taste — the signature mission.
 
 ### 📈 Training Log (Contribution Graph)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyxnova&theme=tokyo-night&hide_border=true&color=00D9FF&line=A78BFA&point=00D9FF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyxnova&theme=tokyo-night&hide_border=true&color=00D9FF&line=A78BFA&point=00D9FF&cache_bust=2" width="90%"/>
 
 </div>
 
