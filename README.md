@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%9A%A1-Lightning_Mode-ACTIVE-0D1117?style=for-the-badge&labelColor=7B2FFF&color=00D9FF" />
-<img src="https://img.shields.io/badge/Nen_Transmuter-ELECTRICITY-0D1117?style=for-the-badge&labelColor=A78BFA&color=7B2FFF" />
-<img src="https://img.shields.io/badge/Assassin_Precision-100%25-0D1117?style=for-the-badge&labelColor=00D9FF&color=A78BFA" />
+<img src="https://img.shields.io/badge/⚡_Lightning_Mode-ACTIVE-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Nen_Transmuter-Electricity-A78BFA?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Assassin_Precision-100%25-7B2FFF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -33,7 +33,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA" width="100%"/>
 
 </td>
 </tr>
@@ -41,8 +41,7 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="35%"/>
 </div>
 
 <br/>
@@ -82,7 +81,7 @@ NLP classifier that hunts spam messages with Zoldyck-level precision — assassi
 <td width="50%" valign="top">
 
 **🎌 [ANIME-RECOMMENDATION](https://github.com/gyxnova/ANIME-RECOMMENDATION)**
-An anime recommender that knows your taste better than Illumi knows Killua — the signature mission.
+An anime recommender built to know your taste — the signature mission.
 
 </td>
 </tr>
@@ -102,7 +101,7 @@ An anime recommender that knows your taste better than Illumi knows Killua — t
 
 <div align="center">
 
-<sub><i>"I never hold back — I go for the kill." — Killua Zoldyck</i></sub>
+<sub><i>"I never hold back — I go for the kill."</i></sub>
 
 <br/>
 
