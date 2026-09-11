@@ -33,15 +33,16 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D9FF&ring_color=A78BFA&cache_bust=2" width="100%"/>
+<img src="https://img.shields.io/github/followers/gyxnova?style=for-the-badge&color=A78BFA&labelColor=0D1117" /><br/><br/>
+<img src="https://img.shields.io/github/stars/gyxnova?style=for-the-badge&color=00D9FF&labelColor=0D1117" /><br/><br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gyxnova&label=Public%20Repos&query=public_repos&style=for-the-badge&color=7B2FFF&labelColor=0D1117" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF&cache_bust=2" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&cache_bust=2" width="35%"/>
+<img src="https://streak-stats.demolab.com?user=gyxnova&theme=tokyonight&hide_border=true&fire=00D9FF&currStreakLabel=A78BFA&ring=7B2FFF&cache_bust=3" width="60%"/>
 </div>
 
 <br/>
@@ -88,14 +89,6 @@ An anime recommender built to know your taste — the signature mission.
 </table>
 
 <br/>
-
-<div align="center">
-
-### 📈 Training Log (Contribution Graph)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyxnova&theme=tokyo-night&hide_border=true&color=00D9FF&line=A78BFA&point=00D9FF&cache_bust=2" width="90%"/>
-
-</div>
 
 <br/>
 
