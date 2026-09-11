@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gyxnova/gyxnova@main/lightning(1).svg" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/gyxnova/gyxnova@main/lightning.svg" width="100%"/>
 </div>
 
 <div align="center">
