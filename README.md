@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="gyxnova — dream, build, ascend" />
+<img src="banner.png" width="100%" alt="gyxnova — dream, build, ascend" />
 
 # `gyxnova` ⚡
 
@@ -32,7 +32,7 @@ I'm Gayatri, a Mathematics student interested in building practical AI/ML applic
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="assets/avatar.png" width="190" alt="gyxnova's anime-inspired avatar with a cat" />
+<img src="avatar.png" width="190" alt="gyxnova's anime-inspired avatar with a cat" />
 
 **NOVA.exe**
 
