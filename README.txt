@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dashboard.png" width="100%" alt="gyxnova — Dream. Build. Ascend. Purple lightning anime-inspired developer profile with a sleeping cat." />
+<img src="dashboard.png" width="100%" alt="gyxnova — Dream. Build. Ascend. Purple lightning anime-inspired developer profile with a sleeping cat." />
 
 **Aspiring AI/ML Engineer · Mathematics Student**
 
