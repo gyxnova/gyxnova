@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <img width="65%" src="https://streak-stats.demolab.com?user=gyxnova&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub streak" />
 
