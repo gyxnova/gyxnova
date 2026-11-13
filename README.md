@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner(1).png" width="100%" alt="gyxnova — dream · build · ascend" />
+<img src="banner (1).png" width="100%" alt="gyxnova — dream · build · ascend" />
 
 # gyxnova ⚡
 
@@ -18,7 +18,7 @@
 <img src="about.svg" width="100%" alt="About Me" />
 </td>
 <td width="32%" valign="middle" align="center">
-<img src="Araxiel%20F%C3%A9nix.gif" width="200" alt="Fenix" />
+<img src="Araxiel Fénix.gif" width="200" alt="Fenix" />
 </td>
 </tr>
 </table>
