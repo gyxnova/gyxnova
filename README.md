@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="gyxnova — dream · build · ascend" />
+<img src="banner.png" width="100%" alt="gyxnova — dream · build · ascend" />
 
 # gyxnova ⚡
 
@@ -43,10 +43,10 @@
 
 <div align="center">
 
-<a href="https://github.com/gyxnova/medreport-explain"><img src="assets/project-medical.svg" width="48%" alt="Medical Report Explainer" /></a>
-<a href="https://github.com/gyxnova/swiggy-top3-recco"><img src="assets/project-swiggy.svg" width="48%" alt="Swiggy Top-3 Recommender" /></a>
-<a href="https://github.com/gyxnova/spam-detector"><img src="assets/project-spam.svg" width="48%" alt="Spam Detector" /></a>
-<a href="https://github.com/gyxnova/ANIME-RECOMMENDATION"><img src="assets/project-anime.svg" width="48%" alt="Anime Recommendation" /></a>
+<a href="https://github.com/gyxnova/medreport-explain"><img src="project-medical.svg" width="48%" alt="Medical Report Explainer" /></a>
+<a href="https://github.com/gyxnova/swiggy-top3-recco"><img src="project-swiggy.svg" width="48%" alt="Swiggy Top-3 Recommender" /></a>
+<a href="https://github.com/gyxnova/spam-detector"><img src="project-spam.svg" width="48%" alt="Spam Detector" /></a>
+<a href="https://github.com/gyxnova/ANIME-RECOMMENDATION"><img src="project-anime.svg" width="48%" alt="Anime Recommendation" /></a>
 
 </div>
 
@@ -54,10 +54,10 @@
 
 <div align="center">
 
-<img src="assets/stats.svg" width="48%" alt="GitHub stats" />
-<img src="assets/langs.svg" width="48%" alt="Top languages" />
+<img src="stats.svg" width="48%" alt="GitHub stats" />
+<img src="langs.svg" width="48%" alt="Top languages" />
 
-<img src="assets/streak.svg" width="97%" alt="Contribution streak" />
+<img src="streak.svg" width="97%" alt="Contribution streak" />
 
 </div>
 
