@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="190" viewBox="0 0 620 190">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150F2E"/><stop offset="1" stop-color="#0B0818"/></linearGradient></defs>
+  <rect x="1" y="1" width="618" height="188" rx="14" fill="url(#g)" stroke="#5B3FD0" stroke-opacity="0.7"/>
+  <text x="26" y="42" font-size="20" fill="#A78BFA">★</text>
+  <text x="54" y="42" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#E9E3FF">About Me</text>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#C9C2E8">
+    <text x="26" y="80">Mathematics student exploring Machine Learning,</text>
+    <text x="26" y="106">Deep Learning and MLOps. Building practical projects</text>
+    <text x="26" y="132">and turning ideas into real-world solutions.</text>
+  </g>
+  <text x="26" y="166" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#A78BFA">dream · build · ascend</text>
+</svg>

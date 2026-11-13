@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="188" viewBox="0 0 420 188">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#150F2E"/><stop offset="1" stop-color="#0B0818"/></linearGradient></defs>
+<rect x="1" y="1" width="418" height="186" rx="14" fill="url(#g)" stroke="#5B3FD0" stroke-opacity="0.7"/>
+<text x="24" y="38" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#A78BFA">&lt;/&gt;</text>
+<text x="56" y="38" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#E9E3FF">Top Languages</text>
+<text x="26" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#B8B0D6">Waiting for first update…</text>
+</svg>
