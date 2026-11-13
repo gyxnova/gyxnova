@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="gyxnova — dream, build, ascend" />
+<img src="dashboard.png" width="100%" alt="gyxnova — Dream. Build. Ascend. Purple lightning anime-inspired developer profile with a sleeping cat." />
 
 # `gyxnova` ⚡
 
@@ -32,9 +32,7 @@ I'm Gayatri, a Mathematics student interested in building practical AI/ML applic
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="assets/avatar.png" width="190" alt="gyxnova's anime-inspired avatar with a cat" />
-
-**NOVA.exe**
+<img src="Araxiel Fénix.gif" width="190" />
 
 `dream · build · ascend`
 
@@ -46,7 +44,7 @@ I'm Gayatri, a Mathematics student interested in building practical AI/ML applic
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,jupyter,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,jupyter,vscode,docker,sciket-learn,tensorflow&theme=dark" />
 
 </div>
 
