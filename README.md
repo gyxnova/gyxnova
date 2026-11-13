@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="gyxnova — dream · build · ascend" />
+<img src="banner.png" width="100%" alt="gyxnova — dream · build · ascend" />
 
 </div>
 
 <table>
 <tr>
 <td width="170" align="center" valign="middle">
-<img src="assets/avatar.png" width="150" alt="gyxnova avatar" />
+<img src="avatar.png" width="150" alt="gyxnova avatar" />
 </td>
 <td valign="middle">
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="assets/about.svg" width="100%" alt="About Me" />
+<img src="about.svg" width="100%" alt="About Me" />
 
 </div>
 
@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<a href="https://github.com/gyxnova/medreport-explain"><img src="assets/project-medical.svg" width="48%" alt="Medical Report Explainer" /></a>
-<a href="https://github.com/gyxnova/swiggy-top3-recco"><img src="assets/project-swiggy.svg" width="48%" alt="Swiggy Top-3 Recommender" /></a>
-<a href="https://github.com/gyxnova/spam-detector"><img src="assets/project-spam.svg" width="48%" alt="Spam Detector" /></a>
-<a href="https://github.com/gyxnova/ANIME-RECOMMENDATION"><img src="assets/project-anime.svg" width="48%" alt="Anime Recommendation" /></a>
+<a href="https://github.com/gyxnova/medreport-explain"><img src="project-medical.svg" width="48%" alt="Medical Report Explainer" /></a>
+<a href="https://github.com/gyxnova/swiggy-top3-recco"><img src="project-swiggy.svg" width="48%" alt="Swiggy Top-3 Recommender" /></a>
+<a href="https://github.com/gyxnova/spam-detector"><img src="project-spam.svg" width="48%" alt="Spam Detector" /></a>
+<a href="https://github.com/gyxnova/ANIME-RECOMMENDATION"><img src="project-anime.svg" width="48%" alt="Anime Recommendation" /></a>
 
 </div>
 
