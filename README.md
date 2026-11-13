@@ -1,0 +1,82 @@
+<div align="center">
+
+<img src="assets/banner.png" width="100%" alt="gyxnova — dream · build · ascend" />
+
+</div>
+
+<table>
+<tr>
+<td width="170" align="center" valign="middle">
+<img src="assets/avatar.png" width="150" alt="gyxnova avatar" />
+</td>
+<td valign="middle">
+
+# gyxnova ⚡
+
+**Aspiring AI/ML Engineer | Mathematics Student**
+
+> *“Turning curiosity into code, and data into intelligence.”*
+
+📍 India &nbsp;·&nbsp; ✉️ [gsharma27084@gmail.com](mailto:gsharma27084@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/gayatri-sharma-852a78349)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/about.svg" width="100%" alt="About Me" />
+
+</div>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,git,github,docker,vscode,postgres&theme=dark" alt="Tech stack" />
+
+</div>
+
+| Area | Tools and topics |
+|---|---|
+| Programming | Python, SQL |
+| Data | NumPy, Pandas, Matplotlib, Seaborn |
+| Machine Learning | scikit-learn, regression, classification, feature engineering, model evaluation |
+| Currently learning | TensorFlow, Deep Learning, MLOps |
+| Tools | Git, GitHub, Jupyter Notebook, VS Code |
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/gyxnova/medreport-explain"><img src="assets/project-medical.svg" width="48%" alt="Medical Report Explainer" /></a>
+<a href="https://github.com/gyxnova/swiggy-top3-recco"><img src="assets/project-swiggy.svg" width="48%" alt="Swiggy Top-3 Recommender" /></a>
+<a href="https://github.com/gyxnova/spam-detector"><img src="assets/project-spam.svg" width="48%" alt="Spam Detector" /></a>
+<a href="https://github.com/gyxnova/ANIME-RECOMMENDATION"><img src="assets/project-anime.svg" width="48%" alt="Anime Recommendation" /></a>
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gyxnova&show_icons=true&hide_border=true&bg_color=0D0A1E&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C2E8" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxnova&layout=compact&hide_border=true&bg_color=0D0A1E&title_color=A78BFA&text_color=C9C2E8" alt="Top languages" />
+
+<img width="65%" src="https://streak-stats.demolab.com?user=gyxnova&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9C2E8&currStreakNum=C9C2E8&sideNums=C9C2E8&dates=8B7FB8" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**✦ &nbsp; DREAM BIG. CODE HARDER. &nbsp; ✦**
+
+<sub>*Keep Building* ⚡</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gyxnova&style=flat-square&color=8B5CF6&label=PROFILE+VISITS" alt="Profile views" />
+
+</div>
